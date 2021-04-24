@@ -19,3 +19,5 @@ You can access the Wiki above, or by selecting one of the wiki page links below.
 [Controllers](https://github.com/schmoomers/Schmoomer-s-Wiki/wiki/07-Controllers)
 
 [FAQ](https://github.com/schmoomers/Schmoomer-s-Wiki/wiki/08-FAQ)
+
+[SP Fixes](https://github.com/schmoomers/Schmoomer-s-Wiki/wiki/09-SP-Fixes)
