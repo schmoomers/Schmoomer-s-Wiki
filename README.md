@@ -23,3 +23,7 @@ You can access the Wiki above, or by selecting one of the wiki page links below.
 [SP Fixes](https://github.com/schmoomers/Schmoomer-s-Wiki/wiki/09-SP-Fixes)
 
 [Tips](https://github.com/schmoomers/Schmoomer-s-Wiki/wiki/10-Tips)
+
+[Steam Link](https://github.com/schmoomers/Schmoomer-s-Wiki/wiki/11-Steam-Link)
+
+[WSL2](https://github.com/schmoomers/Schmoomer-s-Wiki/wiki/12-WSL2)
